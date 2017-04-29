@@ -6,3 +6,5 @@ npm install --save ws
 
 You need to install dateformat
 npm install dateformat
+
+You will need an Web Server to use the Html Files
